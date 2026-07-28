@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/esrid/mon-template-go/internal/di"
+	"github.com/esrid/verbe/internal/di"
 )
 
 func main() {

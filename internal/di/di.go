@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	store "github.com/esrid/mon-template-go/internal/adapters/stores"
+	store "github.com/esrid/verbe/internal/adapters/stores"
 )
 
 // App holds the wired dependencies. Add services and handlers here as the
